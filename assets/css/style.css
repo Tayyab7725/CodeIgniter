@@ -1,0 +1,34 @@
+.post-date{
+	background:f4f4f4;
+	padding:4px;
+	margin: 3px 0;
+	display:block;
+}
+
+.btn-default {background-color: #18BC9C;
+	
+	} 
+.btn-default:hover {background-color: #3e8e41}
+
+.pagination-links{
+	margin:30px 0;
+}
+
+.pagination-links strong{
+	padding: 8px 13px;
+	margin:5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+
+a.pagination-link{
+	padding: 8px 13px;
+	margin:5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+
+.cat-delete{
+	display:inline;
+}
+
